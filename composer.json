@@ -12,6 +12,9 @@
       "email": "aymanelmlah77@gmail.com"
     }
   ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
   "version": "0.0.1",
   "autoload": {
   }
